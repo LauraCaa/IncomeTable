@@ -1,0 +1,12 @@
+services:
+  income-tracker:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ".:/opt/income-tracker"
+      - "/opt/income-tracker/node_modules"
+    environment:
+      - NEXT_WEBPACK_USEPOLLING=true
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
