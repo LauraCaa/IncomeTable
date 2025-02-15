@@ -1,0 +1,36 @@
+div{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+h1{
+    font-size: 18px;
+    font-weight: 500;
+}
+table{
+    border-collapse:collapse;
+}
+.day{
+    border-bottom: 2px solid #ECEDEF;
+    color: #8691A7;
+    text-align: left;
+    text-transform: capitalize;
+}
+td{
+    padding: 5px 10px;}
+p{
+    margin: 0;
+}
+img{
+    border-radius: 12px;
+    margin: 5px 0;
+}
+.gray-text{
+    color: #999899;
+    font-size: 12px;
+}
+.text-right{
+    text-align: right;
+}
+.green-text{
+    color: #007E42;
+}
