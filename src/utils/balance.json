@@ -1,0 +1,152 @@
+{
+  "balance": {
+    "today": [
+      {
+        "id": "6629e3d6e32336bc3ce357bc",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$98",
+        "company": "Housedown",
+        "details": "Life style",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d63fbf75aa2c69f9cc",
+        "image": "https://via.placeholder.com/30",
+        "amount": "$10",
+        "company": "Vinch",
+        "details": "Incoming transfer",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d6a2a00113f957afa0",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$1,150",
+        "company": "Bitendrex",
+        "details": "Life style",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d61597efbd8ef6da7f",
+        "image": "https://via.placeholder.com/30",
+        "amount": "$489",
+        "company": "Lumbrex",
+        "details": "Money transfer",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d674b59673d81dbc97",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$1,329",
+        "company": "Ontality",
+        "details": "Food",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d624b0d45862de5d9a",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$637",
+        "company": "Quintity",
+        "details": "Life style",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d661903fc847072798",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$1,639",
+        "company": "Corpulse",
+        "details": "Food",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d61800acb54316990d",
+        "image": "https://via.placeholder.com/30",
+        "amount": "$267",
+        "company": "Sloganaut",
+        "details": "Money transfer",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d63efffbb062186ffa",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$1,048",
+        "company": "Oatfarm",
+        "details": "Subscription",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d60658ff72d7d494f7",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$866",
+        "company": "Optyk",
+        "details": "Food",
+        "createdAt": "2024-04-25"
+      },
+      {
+        "id": "6629e3d681fcd1d4a86a9bf9",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$129",
+        "company": "Cognicode",
+        "details": "Shopping",
+        "createdAt": "2024-04-25"
+      }
+    ],
+    "yesterday": [
+      {
+        "id": "6629e3d6c910b3593045a742",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$23",
+        "company": "Boink",
+        "details": "Subscription",
+        "createdAt": "2024-04-24"
+      },
+      {
+        "id": "6629e3d6994da4ba8cbc2414",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$1,282",
+        "company": "Netbook",
+        "details": "Subscription",
+        "createdAt": "2024-04-24"
+      },
+      {
+        "id": "6629e3d6aa75bf3b865ae42c",
+        "image": "https://via.placeholder.com/30",
+        "amount": "$108",
+        "company": "Qnekt",
+        "details": "Money transfer",
+        "createdAt": "2024-04-24"
+      },
+      {
+        "id": "6629e3d626aa4b0ee5a475aa",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$1,830",
+        "company": "Gogol",
+        "details": "Food",
+        "createdAt": "2024-04-24"
+      },
+      {
+        "id": "6629e3d6e7b3c33ee97fee95",
+        "image": "https://via.placeholder.com/30",
+        "amount": "$986",
+        "company": "Zyple",
+        "details": "Money transfer",
+        "createdAt": "2024-04-24"
+      },
+      {
+        "id": "6629e3d6fb059c11e997eac1",
+        "image": "https://via.placeholder.com/30",
+        "amount": "$213",
+        "company": "Maximind",
+        "details": "Incoming transfer",
+        "createdAt": "2024-04-24"
+      },
+      {
+        "id": "6629e3d6d8759b4d6f130846",
+        "image": "https://via.placeholder.com/30",
+        "amount": "-$683",
+        "company": "Orboid",
+        "details": "Shopping",
+        "createdAt": "2024-04-24"
+      }
+    ]
+  }
+}
